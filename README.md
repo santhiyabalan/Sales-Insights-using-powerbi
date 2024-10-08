@@ -32,12 +32,12 @@ This project focuses on generating sales insights for the Blinkit grocery app us
 The dataset includes the following headers:
 
 - **Item Identifier**: Unique code for each item.
-- **Item Type**: Category of the item (e.g., dairy, bakery).
-- **Item Fat Content**: Level of fat in the item (e.g., low, medium, high).
-- **Item Visibility**: Visibility status in the store (e.g., high, low).
+- **Item Type**: Category of the item.
+- **Item Fat Content**: Level of fat in the item.
+- **Item Visibility**: Visibility status in the store.
 - **Establishment Year**: Year the outlet was established.
-- **Location Type**: Type of outlet location (e.g., urban, rural).
-- **Outlet Size**: Size classification of the outlet (e.g., small, large).
+- **Location Type**: Type of outlet location.
+- **Outlet Size**: Size classification of the outlet.
 
 ---
 
@@ -61,9 +61,9 @@ The sales data is stored in an Excel file format, which allows for detailed anal
 
 Dynamic filters enhance data visualization, enabling users to interactively refine the displayed information based on specific attributes:
 
-- **Outlet Location Filter**: Filter sales data by the outlet's geographical location (e.g., urban or rural).
-- **Outlet Size Filter**: Filter by the size classification of the outlet (e.g., small, medium, large).
-- **Item Type Filter**: Filter sales data by item category (e.g., dairy, bakery).
+- **Outlet Location Filter**: Filter sales data by the outlet's geographical location.
+- **Outlet Size Filter**: Filter by the size classification of the outlet.
+- **Item Type Filter**: Filter sales data by item category.
 
 ---
 
